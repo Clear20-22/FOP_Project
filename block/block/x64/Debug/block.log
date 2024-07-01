@@ -1,0 +1,10 @@
+﻿  main.cpp
+G:\Boot camp\block\main.cpp(153,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Boot camp\block\main.cpp(154,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Boot camp\block\main.cpp(165,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+G:\Boot camp\block\main.cpp(166,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+G:\Boot camp\block\main.cpp(222,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Boot camp\block\main.cpp(222,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Boot camp\block\main.cpp(223,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Boot camp\block\main.cpp(223,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  block.vcxproj -> G:\Boot camp\block\x64\Debug\block.exe
